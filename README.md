@@ -1,4 +1,13 @@
-Voor deze oefeningen zijn de startbestanden (index.html, css/style.css) niet meer voorzien. Je moet ze zelf telkens op de juiste plaats aanmaken. Blijf de structuur van de vorige labo's volgen. Je zou dus een bestandenhiërarchie van deze vorm moeten hebben:
+# Labo 06
+
+- Zorg dat Codium en alle nodige extensies zijn geïnstalleerd.
+- Volg de gegeven bestandenstructuur.
+- Controleer het resultaat van je oefening met de Live server extensie.
+- Werk de onderstaande oefening van boven naar beneden af.
+- Verbeter je oefeningen achteraf.
+- Vertrek telkens van een gelinkt reset.css bestand op basis van [The New CSS Reset](https://elad2412.github.io/the-new-css-reset/).
+
+Zorg dat je de volgende folder structuur volgt:
 
 ```
 webtechnologie/
@@ -16,3 +25,9 @@ webtechnologie/
 ├─ labo-02/
 └─ labo-n/      
 ```
+
+## Oefeningen
+
+1. [tickets](tickets/)
+2. [schedule](schedule/)
+3. [occupancy](occupancy/)
